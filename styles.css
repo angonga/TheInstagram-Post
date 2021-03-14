@@ -1,0 +1,38 @@
+
+div.post{
+    background: white;
+    margin-top: 10px;
+    outline-style: solid;
+    outline-color: gray;
+}
+div.post img{
+    width: 100%; 
+}
+div.post h2{
+    display: inline-block;
+    width: 80%;
+}
+div.post span{
+    display: inline-block;
+    width: 15%;
+    text-align: right;
+    color: gray;
+}
+
+div.post h2, div.post p{
+    padding: 10px;
+}
+div.container{
+    width: 600px;
+    margin: auto;
+}
+div.post-img h2{
+    display: inline-block;
+    width: 80%;
+}
+div.post-img span{
+    display: inline-block;
+    width: 15%;
+    text-align: right;
+    color: gray;
+}
